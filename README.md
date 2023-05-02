@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying on Universidade Federal Do Rio De Janeiro
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning NestJS
 
 - ⚡ Fun fact: I'm a musician and a football lover!!!
 
